@@ -540,7 +540,7 @@
     <string name="app_layout_subtext">உங்கள் சாதனத்திற்கு ஏற்றவாறு பயன்பாட்டின் தோற்றத்தை மாற்றவும்</string>
     <string name="preferred_media_subtext">உனக்கு என்ன பார்க்க வேண்டும்</string>
     <string name="add_repository">களஞ்சியத்தைச் சேர்க்கவும்</string>
-    <string name="repository_name_hint">களஞ்சிய பெயர்</string>
+    <string name="repository_name_hint">களஞ்சிய பெயர்(கட்டாயமில்லை)</string>
     <string name="is_adult">18+</string>
     <string name="plugins_not_downloaded" formatted="true">பதிவிறக்கம் செய்யப்படவில்லை: %d</string>
     <string name="plugins_updated" formatted="true">புதுப்பிக்கப்பட்டது %d செருகுநிரல்கள்</string>
@@ -591,4 +591,24 @@
     <string name="biometric_warning">உங்கள் கிளவுட்ச்ட்ரீம் தரவு இப்போது காப்புப் பிரதி எடுக்கப்பட்டுள்ளது. இதன் சாத்தியம் மிகக் குறைவு என்றாலும், எல்லா சாதனங்களும் வித்தியாசமாக நடந்து கொள்ளலாம். அரிய விசயத்தில், பயன்பாட்டை அணுகுவதிலிருந்து நீங்கள் பூட்டப்படுகிறீர்கள், பயன்பாட்டு தரவை முழுவதுமாக அழித்து, காப்புப்பிரதியிலிருந்து மீட்டெடுக்கவும். இதிலிருந்து எழும் ஏதேனும் சிரமத்திற்கு நாங்கள் மிகவும் வருந்துகிறோம்.</string>
     <string name="custom_media_singluar">ஊடகம்</string>
     <string name="hide_player_control_names_key" translatable="false">hide_player_control_names_key</string>
+    <string name="pref_category_accounts">கணக்குகள்</string>
+    <string name="test_warning">எச்சரிக்கை</string>
+    <string name="downloads_empty">தற்போது பதிவிறக்கங்கள் எதுவும் இல்லை.</string>
+    <string name="sort_release_date_old">வெளியீட்டு தேதி (பழையதிலிருந்து புதியது)</string>
+    <string name="dont_show">காட்ட வேண்டாம்</string>
+    <string name="show">காட்டு</string>
+    <string name="qr_image">QR குறியீடு படம்</string>
+    <string name="episode_upcoming_format" formatted="true">இன்னும் சில நொடிகளிள் %s</string>
+    <string name="delete_message_series_only" formatted="true">"இந்த தொடரில் உள்ள அனைத்து அத்தியாயங்களையும்  நீக்கலாமா?"</string>
+    <string name="no_subtitles_loaded">வசன வரிகள் எதுவும் இன்னும் சேர்க்கவில்லை</string>
+    <string name="confirm_before_exiting_title">வெளியேறுவதற்கு முன் உறுதிப்படுத்தவும்</string>
+    <string name="favorite_added">%s பிடித்தவையில் சேர்க்கப்பட்டது</string>
+    <string name="favorite_removed">%s பிடித்தவையில் இருந்து நீக்கப்பட்டது</string>
+    <string name="play_from_beginning_img_des">முதலில் இருந்து ஆரம்பி</string>
+    <string name="pref_category_security">பாதுகாப்பு</string>
+    <string name="sort_release_date_new">வெளியீட்டு தேதி (புதியதிலிருந்து பழயது)</string>
+    <string name="select_all">அனைத்தையும் தேர்ந்தெடுக்கவும்</string>
+    <string name="downloads_delete_select">அழிப்பதற்கு தேர்ந்தெடுக்கவும்</string>
+    <string name="delete_files">கோப்புகளை நீக்கு</string>
+    <string name="delete_message_multiple" formatted="true">இந்த தரவுகளை நிரந்தரமாக நீக்கலாமா?</string>
 </resources>
