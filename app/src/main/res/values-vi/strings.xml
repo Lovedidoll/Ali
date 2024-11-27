@@ -674,4 +674,8 @@
     <string name="confirm_before_exiting_desc">Hiện hộp thoại trước khi thoát ứng dụng</string>
     <string name="dont_show">Không hiển thị</string>
     <string name="show">Hiển thị</string>
+    <string name="backup_path_title">Vị trí thư mục sao lưu</string>
+    <string name="custom">Tuỳ chỉnh</string>
+    <string name="subs_edge_size">Kích thước cạnh</string>
+    <string name="torrent_info">Video này là Torrent, điều này có nghĩa là hoạt động video của bạn có thể được theo dõi.\nHãy đảm bảo rằng bạn hiểu về Torrent trước khi tiếp tục.</string>
 </resources>
